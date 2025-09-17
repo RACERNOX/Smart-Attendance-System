@@ -2,7 +2,7 @@
 
 ---
 
-# Attendance System Using Machine Learning
+# BingFace - Intelligent Workforce Analytics Platform
 
 ## Overview
 
